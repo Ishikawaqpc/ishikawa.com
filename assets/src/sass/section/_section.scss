@@ -1,0 +1,9 @@
+.an-section {
+  position: relative;
+  width: 100%;
+  margin-bottom: $margin-medium * 3;
+  padding: $padding-base * 4 $padding-base * 2;
+  background: $color-content-bg-white;
+  @include border-radius($border-radius);
+  //@include an-box-shadow();
+}
