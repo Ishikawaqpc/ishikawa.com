@@ -36,6 +36,7 @@ Table of content
     
   }
   .navbar-default .navbar-brand{
+    position: absolute;
     font-size:14px !important;
     
     
