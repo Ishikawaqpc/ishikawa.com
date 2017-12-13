@@ -21,7 +21,10 @@ Table of content
 
 =======================================
  */
-
+.navbar-brand img{
+    height:40px !important;
+    width:50px !important;
+}
 .myLogo{
     height:40px !important;
   }
