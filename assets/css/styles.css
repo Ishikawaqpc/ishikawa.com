@@ -21,9 +21,35 @@ Table of content
 
 =======================================
  */
+
+.customBrand{
+   /*white-space: nowrap;*/
+}
+.navbar-brand img{
+    height:30px !important;
+    width:50px !important;
+}
+
+
 @media(max-width:420px){
   .navbar-brand{
-    width:70%;
+    width:78%;
+
+    
+  }
+  .navbar-default .navbar-brand{
+    font-size:14px !important;
+    font-family:"Calibri";
+  }
+  
+  .copyrights{
+    display:none;
+  }
+  .an-logo{
+    font-size:15px !important;
+  }
+  .myLogo{
+    display:none;
   }
 }
 
