@@ -35,6 +35,11 @@ Table of content
 
     
   }
+
+  .navbar-collapse{
+    width:100%;
+    position: absolute;
+  }
   .navbar-default .navbar-brand{
     position: absolute;
     font-size:14px !important;
