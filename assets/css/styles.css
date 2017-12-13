@@ -22,17 +22,10 @@ Table of content
 =======================================
  */
 .navbar-brand img{
-    height:40px !important;
+    height:30px !important;
     width:50px !important;
 }
-.myLogo{
-    height:40px !important;
-  }
 
-.logoImg{
-  height:40px !important;
-  width:50px !important;
-}
 
 @media(max-width:420px){
   .navbar-brand{
