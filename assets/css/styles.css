@@ -22,6 +22,15 @@ Table of content
 =======================================
  */
 
+.myLogo{
+    height:40px !important;
+  }
+
+.logoImg{
+  height:40px !important;
+  width:50px !important;
+}
+
 @media(max-width:420px){
   .navbar-brand{
     width:78%;
