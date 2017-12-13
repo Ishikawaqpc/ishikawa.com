@@ -24,11 +24,11 @@ Table of content
 
 @media(max-width:420px){
   .navbar-brand{
-    width:70%;
+    width:80%;
     
   }
   .navbar-default .navbar-brand{
-    font-size:13px !important;
+    font-size:15px !important;
   }
   
   .copyrights{
