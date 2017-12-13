@@ -22,7 +22,10 @@ Table of content
 =======================================
  */
 
-
+.customBrand{
+   overflow:hidden;
+      white-space: nowrap;
+}
 .navbar-brand img{
     height:30px !important;
     width:50px !important;
@@ -32,8 +35,7 @@ Table of content
 @media(max-width:420px){
   .navbar-brand{
     width:78%;
-   overflow:hidden;
-      white-space: nowrap;
+
     
   }
   .navbar-default .navbar-brand{
