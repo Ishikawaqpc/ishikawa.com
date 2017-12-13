@@ -30,6 +30,9 @@ Table of content
   .navbar-default .navbar-brand{
     font-size:15px;
   }
+  
+  .copyrights{
+    display:none;
 }
 
 /* --------------------------------------------------
