@@ -21,13 +21,7 @@ Table of content
 
 =======================================
  */
-pre {
- white-space: pre-wrap;       /* css-3 */
- white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
- white-space: -pre-wrap;      /* Opera 4-6 */
- white-space: -o-pre-wrap;    /* Opera 7 */
- word-wrap: break-word;       /* Internet Explorer 5.5+ */
-}
+
 
 .navbar-brand img{
     height:30px !important;
@@ -39,11 +33,7 @@ pre {
   .navbar-brand{
     width:78%;
    
-   white-space: pre-wrap;       /* css-3 */
- white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
- white-space: -pre-wrap;      /* Opera 4-6 */
- white-space: -o-pre-wrap;    /* Opera 7 */
- word-wrap: break-word;       /* Internet Explorer 5.5+ */
+   overflow:hidden;
     
   }
   .navbar-default .navbar-brand{
