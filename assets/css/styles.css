@@ -32,8 +32,8 @@ Table of content
 @media(max-width:420px){
   .navbar-brand{
     width:78%;
-   
    overflow:hidden;
+      white-space: nowrap;
     
   }
   .navbar-default .navbar-brand{
