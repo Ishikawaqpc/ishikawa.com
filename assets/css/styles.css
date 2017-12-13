@@ -38,6 +38,9 @@ Table of content
   .an-logo{
     font-size:15px !important;
   }
+  .myLogo{
+    display:none;
+  }
 }
 
 /* --------------------------------------------------
